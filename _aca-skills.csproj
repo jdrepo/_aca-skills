@@ -5,6 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>_aca_skills</RootNamespace>
+    <ContainerRepository>dotnet-worker-image</ContainerRepository>
   </PropertyGroup>
 
   <ItemGroup>
