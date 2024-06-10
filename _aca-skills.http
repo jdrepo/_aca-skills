@@ -1,0 +1,6 @@
+@_aca_skills_HostAddress = http://localhost:5119
+
+GET {{_aca_skills_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
